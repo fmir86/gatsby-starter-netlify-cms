@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: This is Home Title
+title: Hello World!
 image: /img/cadena-de-suministro-del-café-colombiano-de-la-marca-1850-coffee-será-rastreada-utilizando-la-tecnología-blockchain-de-ibm.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
